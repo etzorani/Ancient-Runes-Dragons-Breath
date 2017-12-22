@@ -4,4 +4,3 @@ Currently there is no way to execute the game, as it's in early developemenet.
 
 Contact by email at
 etzorani@gmail.com
-test
