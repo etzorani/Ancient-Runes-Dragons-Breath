@@ -1,4 +1,4 @@
-from . import character
+from .character import *
 
 class Creature(Character):
     def __init(self, graphics, name, maxhp, maxmp, level, xp,
