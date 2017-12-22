@@ -1,0 +1,26 @@
+<NotepadPlus>
+    <Project name="Ancient-Runes-Newts-Eye">
+        <Folder name="characters">
+            <Folder name="__pycache__">
+                <File name="characters\__pycache__\character.cpython-36.pyc" />
+                <File name="characters\__pycache__\player.cpython-36.pyc" />
+                <File name="characters\__pycache__\__init__.cpython-36.pyc" />
+            </Folder>
+            <File name="characters\character.py" />
+            <File name="characters\creature.py" />
+            <File name="characters\npc.py" />
+            <File name="characters\player.py" />
+            <File name="characters\__init__.py" />
+        </Folder>
+        <Folder name="__pycache__">
+            <File name="__pycache__\main.cpython-36.pyc" />
+        </Folder>
+        <File name="COPYING.txt" />
+        <File name="copyright_notice.txt" />
+        <File name="game.py" />
+        <File name="main.py" />
+        <File name="map.py" />
+        <File name="README.md" />
+        <File name="run.bat" />
+    </Project>
+</NotepadPlus>
