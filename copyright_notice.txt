@@ -1,4 +1,4 @@
-    Ancient Runes: Dragon's Breath is a game being developed by Gal Grunfeld and Elad Tzorani as of the year 2017.
+    Ancient Runes: Newt's Eye is a game being developed by Gal Grunfeld and Elad Tzorani as of the year 2017.
     Copyright under GNU GPLv3.
     
     Ancient Runes: Dragon's Breath is free software: you can redistribute it and/or modify
