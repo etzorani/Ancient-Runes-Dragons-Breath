@@ -1,4 +1,4 @@
-from .character import *
+from character import *
         
 class Player(Character):
     def __init(self, graphics, name, maxhp, maxmp, level, xp,

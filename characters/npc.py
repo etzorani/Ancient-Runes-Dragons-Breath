@@ -1,4 +1,4 @@
-from .character import *
+from character import *
 		        
 class NPC(Character):
     def __init(self, graphics, name, maxhp, maxmp, level, xp,
